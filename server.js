@@ -6,7 +6,7 @@ const { GoogleGenerativeAI } = require('@google/generative-ai');
 
 dotenv.config();
 const app = express();
-const port = 5000;
+const PORT = process.env.PORT || 5000;
 
 app.use(cors({
     origin: ["https://portfolio-theta-azure-83.vercel.app", "http://localhost:3000"]
