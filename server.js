@@ -41,6 +41,11 @@ app.post('/chat', async (req, res) => {
   }
 });
 
+//for pinging
+app.get('/ping', (req, res) => {
+    res.status(200).send("✅ Server is running");
+});
+
 app.listen(port, () => {
   console.log(`Server running at port ${port}`);
 });
