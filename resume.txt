@@ -1,0 +1,54 @@
+Usham Adhitya Luwang +91-6009434665
+Bachelor of Technology 2022mmb1392@iitrpr.ac.in
+in Metallurgical and Materials Engineering https://github.com/ualUsham
+with Minor in Electrical Engineering https://profile-usham-adhitya-luwang.onrender.com/
+at Indian Institute of Technology, Ropar linkedin.com/in/usham-adhitya-luwang
+Education
+Degree Institute/Board CGPA/Percentage Year
+Bachelor of Technology Indian Institute of Technology, Ropar 8.21 (Till 5th Sem) 2022-2026
+Higher Secondary Council of Higher Secondary Education, Manipur 95.8% 2021
+Secondary Board of Secondary Education, Manipur 93.5% 2019
+Projects
+• AIvaluation github.com/ualUsham/AIvaluation
+– This is a Web App that allows users to prepare for interviews based on their resume. Users have to register and upload
+their resume. Gemini AI is used to analyse the resume and ask 10 relevant questions. Based on the responses, AI will grade
+the candidate’skill on a scale of 10. Firebase Auth, Firestore, Reactjs, Expressjs,etc are implemented.
+• Telegram bot with Gemini AI for response & image analysis github.com/ualUsham/ualBot
+– This Node.js application integrates a Telegram bot with Google Gemini AI and MongoDB Atlas Cloud server to provide
+dynamic user interactions. It performs 4 main tasks i.e Register users to Mongodb cloud database, Process user-messages
+with AI-generated responses, Analyzes user-uploaded Images with summary & Google searches with summarized results.
+• Habit Tracker React App github.com/ualUsham/Heinabi-habit-tracker
+– Heinabi is a React-based habit tracking app where users can create, manage, and track habits effortlessly. It features
+an interactive FullCalendar for visual progress tracking and a responsive Bootstrap design for a modern user experience.
+Deployed on Netlify, it supports continuous deployment with Git for instant updates.
+• Amazon AI Assisted FAQ github.com/ualUsham/Amazon_AI_Assisted_FAQ
+– This is a chatbot which helps customers to get AI assistance while shopping on the Amazon website. Retrieval Augmented
+Generation (RAG) is implemented using Google’s LLM Gemini. Frameworks like LangChain, Hugging Face, Streamlit, etc.,
+were used during this project.
+• Skin Disease Treatment Recommendation github.com/ualUsham/Skin_Disease_Treatment_Recommendation
+– Transfer Learning using the MobileNetV2 model is used to build a robust system capable of accurately predicting skin
+diseases based on uploaded images. With a simple photo upload, users can get potential diagnoses, understand their
+symptoms, and receive initial treatment recommendations. Torch and torchvision were the main libraries used, and Gradio
+was implemented for the interface.
+Experiences
+• Summer Undergraduate Research Intern Apr 2024 - Present
+under Prof. Dr. Pratik K. Ray, IIT Ropar github.com/ualUsham/Exchange_coupled_nanomagnets
+– This research focuses on the magnetic properties of Exchange-Coupled Nanomagnets using Machine Learning algorithms
+such as Regression, SVM, and Neural Networks. It explores their potential applications in the electronics industry.
+Technical Skills
+• Programming Languages: Python, Javascript, C/C++
+• Technical Skills:Web Dev, AI, LLM, RAG, MCP server, ML, tensorflow, keras, openCV, Scikit-Learn, HTML, CSS
+• Frameworks: React, Langchain, VS Code, Jupyter notebook, Huggingface, github, git, streamlit, Flask, Django, Firebase,
+Expressjs, MongoDB
+Key courses taken
+• Key Subjects/Electives: Machine Learning in Material Science, Linear Algebra, Probability & Statistics, Signals & Systems,
+Control Engineering, Computing & Data Structures, Materials Modelling
+Positions of Responsibility
+• Head of Publicity,Zeitgeist’24, IIT Ropar June. 2024 - Oct. 2024
+• Head of Design,Board of Wellness, IIT Ropar June. 2024 - Apr. 2025
+• Co-Head of ISC,Advitiya’24, IIT Ropar Jan. 2024 - Apr. 2024
+• Ex-Coordinator,Coding Club & Astronomy Club, IIT Ropar July. 2023 - May. 2024
+Miscellaneous
+• 2nd Position, State level National Talent Search Examination 2018
+• 2nd Position,State Talent Search Examination 2017
+• 1st Position, National Mathematics Day Celebration, Mastec 2016
