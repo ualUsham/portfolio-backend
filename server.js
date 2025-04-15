@@ -9,7 +9,7 @@ const app = express();
 const port = process.env.PORT || 5000;
 
 app.use(cors({
-    origin: ["https://portfolio-theta-azure-83.vercel.app", "http://localhost:3000"]
+    origin: ["https://portfolio-theta-azure-83.vercel.app", "http://localhost:3000","https://profile-usham-adhitya-luwang.onrender.com"]
 }));
 app.use(express.json());
 
